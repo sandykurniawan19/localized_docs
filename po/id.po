@@ -3254,7 +3254,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/config.rst:1061
 msgid "Since release 4.5.0 you can save and load export templates."
-msgstr ""
+msgstr "Sejak rilis 4.5.0 Anda bisa menyimpan dan memuat ekspor template."
 
 #: ../phpmyadmin/doc/config.rst:1066
 msgid ""
